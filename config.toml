@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://chambbj.github.io/"
 languageCode = "en-us"
 theme = "heather-hugo"
-title = "My New Hugo Site"
+title = "chambbj"
