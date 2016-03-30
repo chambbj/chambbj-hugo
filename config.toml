@@ -1,4 +1,31 @@
 baseurl = "http://chambbj.github.io/"
 languageCode = "en-us"
-theme = "heather-hugo"
 title = "chambbj"
+
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	showglobe = true
+	github = "https://github.com/chambbj"
+	twitter = "https://twitter.com/chambbj"
+	linkedin = "https://www.linkedin.com/in/chambbj"
+	email = "brad.chambers@gmail.com"
+	title = "Brad Chambers"
+	subtitle = "chambbj"
+	analytics = "UA-75791009-1"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+
+	[[params.navlinks]]
+	name = "Publications"
+	url = "publications"
