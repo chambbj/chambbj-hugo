@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/chambbj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chambbj.github.io
+  * I am chambbj (https://keybase.io/chambbj) on keybase.
+  * I have a public key ASDicLvN_c6TE8dky3mbXSe0CarU-qgyJXzuDRqV3vhFRQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c73f6aadedd228f676d3dfd77073a2c09b8a2880ef894548ec39f73d5a4f94d60a",
+      "host": "keybase.io",
+      "kid": "0120e270bbcdfdce9313c764cb799b5d27b409aad4faa832257cee0d1a95def845450a",
+      "uid": "19f84c69551070621df4c92ce3071c00",
+      "username": "chambbj"
+    },
+    "merkle_root": {
+      "ctime": 1507744119,
+      "hash": "e23fca7da8a701b24920411afa849fa02d76bca0367d0ecdc7ced9f9ae6a8a035a8b1bf3e7351276a57aa29829c69b7d8e7fb7e812ee9b441b3881c816675c7c",
+      "hash_meta": "ae184c2e39edc4fb16c91def7ee9d0f76e267126bdaea19edd6ec00042ce839b",
+      "seqno": 1560166
+    },
+    "service": {
+      "hostname": "chambbj.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507744141,
+  "expire_in": 504576000,
+  "prev": "6604705947fa414436531bcc50a01eec9d3b3c143c4e2f5c0118c3a31800b04d",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4nC7zf3OkxPHZMt5m10ntAmq1PqoMiV87g0ald74RUUKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzczZjZhYWRlZGQyMjhmNjc2ZDNkZmQ3NzA3M2EyYzA5YjhhMjg4MGVmODk0NTQ4ZWMzOWY3M2Q1YTRmOTRkNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTI3MGJiY2RmZGNlOTMxM2M3NjRjYjc5OWI1ZDI3YjQwOWFhZDRmYWE4MzIyNTdjZWUwZDFhOTVkZWY4NDU0NTBhIiwidWlkIjoiMTlmODRjNjk1NTEwNzA2MjFkZjRjOTJjZTMwNzFjMDAiLCJ1c2VybmFtZSI6ImNoYW1iYmoifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDc3NDQxMTksImhhc2giOiJlMjNmY2E3ZGE4YTcwMWIyNDkyMDQxMWFmYTg0OWZhMDJkNzZiY2EwMzY3ZDBlY2RjN2NlZDlmOWFlNmE4YTAzNWE4YjFiZjNlNzM1MTI3NmE1N2FhMjk4MjljNjliN2Q4ZTdmYjdlODEyZWU5YjQ0MWIzODgxYzgxNjY3NWM3YyIsImhhc2hfbWV0YSI6ImFlMTg0YzJlMzllZGM0ZmIxNmM5MWRlZjdlZTlkMGY3NmUyNjcxMjZiZGFlYTE5ZWRkNmVjMDAwNDJjZTgzOWIiLCJzZXFubyI6MTU2MDE2Nn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJjaGFtYmJqLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3NzQ0MTQxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjY2MDQ3MDU5NDdmYTQxNDQzNjUzMWJjYzUwYTAxZWVjOWQzYjNjMTQzYzRlMmY1YzAxMThjM2EzMTgwMGIwNGQiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA/F6d7+Oo6KHz5j3blZyWQNEBMCyU6pXBO1lUbrk5QpgJ+k/VOXRCEhFT90yMpvnpcS00NUpHUGBwC2kX6j1TA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGvcee0N3UlV7n5dsmM2yJ/u+XX0bVCa8OyLga6sMwuUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chambbj
+
+==================================================================
